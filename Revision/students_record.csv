@@ -1,0 +1,81 @@
+roll,name,branch,course,total_fee,paid_fees
+101,Siya,Karvenagar,Data Analytics,50000,30000
+102,Aarav,Kothrud,Python,40000,40000
+103,Riya,Wakad,Data Analytics,50000,25000
+104,Vihaan,Hinjewadi,Machine Learning,60000,45000
+105,Anaya,Pimpri,Web Development,45000,30000
+106,Ishaan,Chinchwad,AI & ML,70000,50000
+107,Meera,Baner,Data Analytics,50000,50000
+108,Aditya,Aundh,Python,40000,20000
+109,Kavya,Nigdi,Power BI,35000,25000
+110,Arjun,Pashan,Machine Learning,60000,60000
+111,Saanvi,Talegaon,Web Development,45000,35000
+112,Rohan,Deccan,AI & ML,70000,65000
+113,Diya,Hadapsar,Data Analytics,50000,15000
+114,Atharva,Shivajinagar,Python,40000,30000
+115,Neha,Viman Nagar,Power BI,35000,35000
+116,Om,Ravet,Data Analytics,50000,45000
+117,Shruti,Magarpatta,Machine Learning,60000,40000
+118,Krishna,Moshi,Web Development,45000,20000
+119,Priya,Akurdi,Python,40000,10000
+120,Raj,Warje,AI & ML,70000,70000
+121,Aditi,Katraj,Data Analytics,50000,28000
+122,Rahul,Bhosari,Python,40000,18000
+123,Sneha,Dapodi,Power BI,35000,15000
+124,Yash,Balewadi,Machine Learning,60000,30000
+125,Pooja,Camp,Web Development,45000,45000
+126,Karan,Kondhwa,AI & ML,70000,55000
+127,Nikita,Sangvi,Data Analytics,50000,35000
+128,Rutvik,Bibwewadi,Python,40000,25000
+129,Vaishnavi,Yerwada,Power BI,35000,30000
+130,Soham,Warje Malwadi,Machine Learning,60000,50000
+131,Akash,Lohegaon,Web Development,45000,22000
+132,Pranali,Kharadi,AI & ML,70000,60000
+133,Tanvi,Dhanori,Data Analytics,50000,50000
+134,Ritesh,Chakan,Python,40000,35000
+135,Komal,Fursungi,Power BI,35000,20000
+136,Harsh,Narhe,Machine Learning,60000,42000
+137,Gauri,Dhayari,Web Development,45000,32000
+138,Abhishek,Ambegaon,AI & ML,70000,45000
+139,Sakshi,Undri,Data Analytics,50000,20000
+140,Tejas,Manjari,Python,40000,40000
+141,Mrunal,Wagholi,Power BI,35000,27000
+142,Nilesh,Bavdhan,Machine Learning,60000,48000
+143,Anjali,Phursungi,Web Development,45000,15000
+144,Siddharth,Shirur,AI & ML,70000,70000
+145,Palak,Alandi,Data Analytics,50000,31000
+146,Rohan,Sus,Python,40000,12000
+147,Aryan,Pirangut,Power BI,35000,35000
+148,Sonal,Chikhali,Machine Learning,60000,25000
+149,Ritik,Thergaon,Web Development,45000,40000
+150,Payal,Vishrantwadi,AI & ML,70000,68000
+151,Aniket,Mundhwa,Data Analytics,50000,45000
+152,Shweta,Rahatani,Python,40000,39000
+153,Devansh,Pimple Saudagar,Power BI,35000,10000
+154,Khushi,Pimple Gurav,Machine Learning,60000,55000
+155,Aman,Kalewadi,Web Development,45000,26000
+156,Rupal,Tathawade,AI & ML,70000,50000
+157,Manav,Charholi,Data Analytics,50000,34000
+158,Reema,Uruli Kanchan,Python,40000,22000
+159,Chetan,Loni Kalbhor,Power BI,35000,18000
+160,Isha,Hadapsar,Machine Learning,60000,60000
+161,Rutuja,Karvenagar,Web Development,45000,37000
+162,Samir,Kothrud,AI & ML,70000,64000
+163,Deepali,Wakad,Data Analytics,50000,29000
+164,Nikhil,Hinjewadi,Python,40000,40000
+165,Ayesha,Pimpri,Power BI,35000,25000
+166,Varun,Chinchwad,Machine Learning,60000,47000
+167,Shraddha,Baner,Web Development,45000,35000
+168,Kunal,Aundh,AI & ML,70000,52000
+169,Prachi,Nigdi,Data Analytics,50000,18000
+170,Mayur,Pashan,Python,40000,31000
+171,Trupti,Talegaon,Power BI,35000,35000
+172,Shubham,Deccan,Machine Learning,60000,43000
+173,Anushka,Hadapsar,Web Development,45000,28000
+174,Parth,Shivajinagar,AI & ML,70000,59000
+175,Reshma,Viman Nagar,Data Analytics,50000,50000
+176,Rahul,Ravet,Python,40000,17000
+177,Akanksha,Magarpatta,Power BI,35000,26000
+178,Rohan,Moshi,Machine Learning,60000,38000
+179,Neel,Akurdi,Web Development,45000,45000
+180,Priyanka,Warje,AI & ML,70000,62000
