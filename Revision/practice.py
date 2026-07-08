@@ -55,7 +55,7 @@ import csv
 file = open("Revision/employee_salary.csv","r")
 dr = csv.DictReader(file)
 new_file = open("Revision/operation_employee.csv","w")
-dw = csv.DictWriter(new_file,fieldnames=dr.fieldnames)
+dw = csv.DictWriter(new_file,['emp_id','emp_name','department','salary'])
 for data in dr:
     if data["department"] == "Operation":
         dw.writerow(data)
