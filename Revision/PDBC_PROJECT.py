@@ -36,20 +36,15 @@ for sr,qun in orders.items():
     price = data[0][1]
     amount = price*qun
     print(f'|{sr:^20}|{item_name:^20}|{qun:^20}|{price:^20}|{amount:^20}|')
-    print('-'*105)
+    print("-"*105)
 #     print(f'|{sr:^20}|{item_name:^20}|{qun:^20}|{price:^20}|{amount:^20}|')
-
-
 # insert_query = """
 # INSERT INTO bill_details
 # (item_no, item_name, quantity, price, amount)
 # VALUES (%s,%s,%s,%s,%s)
 # """
-
 # values = (sr, item_name, qun, price, amount)
-
 # cur.execute(insert_query, values)
-
 # conn.commit()
     total = total+amount
 print(f'Total Bill Amount: {total}')
