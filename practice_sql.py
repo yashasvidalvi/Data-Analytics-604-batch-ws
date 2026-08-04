@@ -38,29 +38,11 @@ conn = connector.connect(
 
 cur = conn.cursor()
 
-cur.execute("""
-CREATE TABLE IF NOT EXISTS emp1(
-    empid INT PRIMARY KEY,
-    empname VARCHAR(50),
-    empsalary INT
-)
-""")
+cur.execute("CREATE TABLE IF NOT EXISTS emp1(empid INT PRIMARY KEY,empname VARCHAR(50),empsalary INT)")
 
-cur.execute("""
-CREATE TABLE IF NOT EXISTS emp2(
-    empid INT PRIMARY KEY,
-    empname VARCHAR(50),
-    empsalary INT
-)
-""")
+cur.execute("CREATE TABLE IF NOT EXISTS emp2(empid INT PRIMARY KEY,empname VARCHAR(50),empsalary INT)")
 
-cur.execute("""
-CREATE TABLE IF NOT EXISTS emp3(
-    empid INT PRIMARY KEY,
-    empname VARCHAR(50),
-    empsalary INT
-)
-""")
+cur.execute("CREATE TABLE IF NOT EXISTS emp3(empid INT PRIMARY KEY,empname VARCHAR(50),empsalary INT)")
 
 cur.execute("SELECT * FROM emp")
 records = cur.fetchall()
@@ -68,22 +50,13 @@ records = cur.fetchall()
 for empid, empname, empsalary in records:
 
     if empname.upper().startswith("R"):
-        cur.execute(
-            "INSERT INTO emp1(empid, empname, empsalary) VALUES (%s,%s,%s)",
-            (empid, empname, empsalary)
-        )
+        cur.execute("INSERT INTO emp1(empid, empname, empsalary) VALUES (%s,%s,%s)",(empid, empname, empsalary))
 
     elif empname.upper().startswith("P"):
-        cur.execute(
-            "INSERT INTO emp2(empid, empname, empsalary) VALUES (%s,%s,%s)",
-            (empid, empname, empsalary)
-        )
+        cur.execute("INSERT INTO emp2(empid, empname, empsalary) VALUES (%s,%s,%s)",(empid, empname, empsalary))
 
     else:
-        cur.execute(
-            "INSERT INTO emp3(empid, empname, empsalary) VALUES (%s,%s,%s)",
-            (empid, empname, empsalary)
-        )
+        cur.execute("INSERT INTO emp3(empid, empname, empsalary) VALUES (%s,%s,%s)",(empid, empname, empsalary))
 
 conn.commit()
 
