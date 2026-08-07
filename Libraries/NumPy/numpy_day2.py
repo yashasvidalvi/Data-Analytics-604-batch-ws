@@ -50,5 +50,3 @@ print(salary)
 
 salary + salary*0.1
 print(salary)
-
-
