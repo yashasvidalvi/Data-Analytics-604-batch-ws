@@ -1,0 +1,21 @@
+pid,pname,caterory,quantity,cost_price_per_unit,mrp
+1,Laptop,Electronics,10,45000,55000
+2,Wireless Mouse,Accessories,35,500,800
+3,Keyboard,Accessories,25,900,1400
+4,Monitor,Electronics,12,9000,12000
+5,Headphones,Audio,20,1200,1800
+6,USB Cable,Accessories,50,150,300
+7,Power Bank,Electronics,18,900,1400
+8,Webcam,Electronics,15,1800,2600
+9,Bluetooth Speaker,Audio,14,2200,3200
+10,Smart Watch,Wearables,16,2500,3800
+11,Mobile Stand,Accessories,30,250,450
+12,Tablet,Electronics,8,18000,24000
+13,Power Adapter,Accessories,22,700,1100
+14,Earbuds,Audio,25,1500,2200
+15,Laptop Bag,Bags,18,1000,1600
+16,External SSD,Storage,10,5500,7500
+17,Pen Drive,Storage,40,450,700
+18,Router,Networking,13,1800,2800
+19,Mechanical Keyboard,Accessories,9,2800,4000
+20,Gaming Mouse,Accessories,17,1600,2400
