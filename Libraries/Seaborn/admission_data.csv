@@ -1,0 +1,9 @@
+student_id,branch_name,course,fees,paid_fees,remaning_fees
+1,karve nagar,data science,50000,30000,20000
+2,karve nagar,data analytics,40000,30000,10000
+3,warje,data science,50000,20000,30000
+4,warje,data analytics,40000,20000,20000
+5,karve nagar,web development,30000,20000,10000
+6,karve nagar,web development,30000,30000,0
+7,warje,web development,30000,5000,25000
+8,warje,web development,30000,10000,20000

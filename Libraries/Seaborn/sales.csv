@@ -1,0 +1,17 @@
+id,month,branch,course,sales_amount
+1,jan,karve nagar,data science,300000
+2,jan,karve nagar,data analytics,200000
+3,jan,warje,data science,400000
+4,jan,warje,data analytics,500000
+6,feb,karve nagar,data analytics,400000
+7,feb,warje,data science,600000
+8,feb,warje,data analytics,100000
+9,March,karve nagar,data science,450000
+11,March,warje,data science,650000
+12,March,warje,data analytics,170000
+13,March,warje,data analytics,170000
+14,March,karve nagar,data science,600000
+15,March,warje,data analytics,160000
+16,feb,karve nagar,data science,700000
+17,feb,karve nagar,data analytics,50000
+18,March,warje,data science,160000
