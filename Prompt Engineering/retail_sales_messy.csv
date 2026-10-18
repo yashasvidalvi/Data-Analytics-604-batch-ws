@@ -1,0 +1,66 @@
+﻿order_id,order_date,customer_name,city,product,category,quantity,price,discount,payment_mode,sales_person
+ORD1001,01-07-2026,Meera,,Mouse,Electronics,4,Rs.1200,10%,,Amit
+ORD1002,2026-04-19,Rohan,Nagpur,Printer,Electronic,1,Rs.500,15,CARD,Sneha
+ORD1003,18/04/2026,,MUMBAI,Headphones,Electronics,-1,2500,10,Cash,Neha
+ORD1004,07-15-2026,Nisha,MUMBAI,Monitor,Electronics ,2,500.00,5,COD,Rahul
+ORD1005,06-Jul-2026,Ankit,,Laptop,Electronics,0,500.00,5,COD,Rahul
+ORD1006,2026-02-19,Pooja,pune,Printer,Electronic,1,₹1200,5,Net Banking,Rahul
+ORD1007,06-12-2026,Ankit,,Pen,stationary,3,₹5000,15,upi,Karan
+ORD1008,17/05/2026,Pooja,,Keyboard,electronics,3,45000.00,20,cash,Amit
+ORD1009,2026-07-30,Pooja,nagpur,Monitor,Electronics ,2,₹25000,5,cash,Neha
+ORD1010,12-Apr-2026,Ankit,nagpur,Pen,stationary,3,Rs.2500,15,Net Banking,Karan
+ORD1011,03/04/2026,Meera,PUNE,Notebook,Stationery,3,45000,0,Card,Sneha
+ORD1012,2026-06-02,Ankit,Nagpur,Notebook,Stationery,3,25000.00,120,UPI,Sneha
+ORD1013,06-24-2026,,PUNE,Mouse,Electronics,five,5000,20,NetBanking,Amit
+ORD1014,09/05/2026,Pooja,PUNE,Chair,Furniture,0,₹500,,cash,Neha
+ORD1005,2026-07-19,Meera,MUMBAI,Headphones,Electronics,,5000.00,0,Cash,Neha
+ORD1016,2026-03-03,Sanjay,PUNE,Laptop,Electronics,2,45000,120,NetBanking,Karan
+ORD1017,09-Mar-2026,Nisha,NASHIK,Keyboard,electronics,4,₹1200,50,,Priya
+ORD1018,05/03/2026,Pooja,nagpur,Mouse,Electronics,2,5000,-10,CARD,Amit
+ORD1019,2026-07-01,Meera,Nagpur,Mouse,Electronics,4,500,25,CARD,Rahul
+ORD1020,24/02/2026,,Mumbai,Pen,stationary,,Rs.45000,100,upi,Amit
+ORD1021,01-Apr-2026,Meera,Pune,Notebook,Stationery,3,45000,,Net Banking,Sneha
+ORD1022,2026-07-24,  Rahul  ,PUNE,Desk,furniture,4,Rs.1200,120,Net Banking,Neha
+ORD1023,29/04/2026,Rohan,pune,Chair,Furniture,2,45000,0,CARD,Neha
+ORD1024,05-May-2026,,Pune,Notebook,Stationery,4,25000,10,Net Banking,Rahul
+ORD1025,15-Mar-2026,Ankit,Mumbai,Pen,stationary,0,Rs.45000,15,UPI,Karan
+ORD1026,01-16-2026,Sanjay,Pune,Headphones,Electronics,1,250.00,120,,Amit
+ORD1027,2026-01-18,Pooja,nagpur,Keyboard,electronics,five,1200.00,5,COD,Amit
+ORD1028,21-Jan-2026,Nisha,Mumbai,Printer,Electronic,five,₹5000,15,Cash,Priya
+ORD1029,06-21-2026,  Rahul  ,nagpur,Keyboard,electronics,-1,5000,0,COD,Amit
+ORD1030,18/05/2026,Meera,Mumbai,Mouse,Electronics,0,Rs.2500,25,cash,Rahul
+ORD1031,04-23-2026,Meera,PUNE,Keyboard,electronics,,₹250,,Cash,Amit
+ORD1005,10/07/2026,Nisha,Mumbai,Mouse,Electronics,5,Rs.2500,10%,Cash,Karan
+ORD1033,2026-03-06,Rohan,MUMBAI,Pen,stationary,2,₹25000,0,Card,Sneha
+ORD1034,11-Feb-2026,Meera,PUNE,Chair,Furniture,0,25000,5,,Amit
+ORD1035,30/05/2026,Nisha,Pune,Desk,furniture,3,800,20,cash,Neha
+ORD1036,2026-06-20,Sanjay,PUNE,Monitor,Electronics ,2,Rs.25000,15,Net Banking,Amit
+ORD1037,07-08-2026,Meera,Nashik,Keyboard,electronics,3,₹1200,10,UPI,Priya
+ORD1038,21-Feb-2026,Rohan,,Monitor,Electronics ,2,Rs.2500,15,CARD,Priya
+ORD1039,2026-03-13,Nisha,Pune,Desk,furniture,5,5000.00,,upi,Rahul
+ORD1040,05-29-2026,Nisha,Nashik,Keyboard,electronics,1,500.00,25,COD,Karan
+ORD1041,09/04/2026,Pooja,MUMBAI,Mouse,Electronics,5,250.00,0,Net Banking,Amit
+ORD1042,06-09-2026,Ankit,,Desk,furniture,five,₹500,120,Net Banking,Rahul
+ORD1043,06-28-2026,,,Notebook,Stationery,0,Rs.800,50,Card,Karan
+ORD1044,19-Mar-2026,Pooja,Nashik,Printer,Electronic,0,₹250,20,COD,Karan
+ORD1045,30-Apr-2026,Sanjay,,Desk,furniture,-1,1200.00,10%,upi,Rahul
+ORD1046,06-19-2026,Pooja,PUNE,Headphones,Electronics,2,₹1200,15,UPI,Amit
+ORD1047,2026-05-02,,NASHIK,Monitor,Electronics ,-1,Rs.25000,10%,Net Banking,Neha
+ORD1048,2026-06-17,  Rahul  ,Pune,Keyboard,electronics,2,Rs.25000,10,,Neha
+ORD1049,27/04/2026,,Nagpur,Mouse,Electronics,-1,5000.00,-10,NetBanking,Neha
+ORD1050,04-26-2026,Pooja,mumbai,Pen,stationary,4,2500.00,,NetBanking,Amit
+ORD1051,03-02-2026,Sanjay,Mumbai,Chair,Furniture,2,5000,10,Net Banking,Sneha
+ORD1052,30/06/2026,  Rahul  ,Nashik,Keyboard,electronics,2,25000.00,25,UPI,Neha
+ORD1053,2026-04-10,Nisha,mumbai,Notebook,Stationery,,25000.00,0,Net Banking,Priya
+ORD1054,11/07/2026,  Rahul  ,Pune,Headphones,Electronics,-1,₹1200,50,Net Banking,Rahul
+ORD1055,05/07/2026,Rohan,pune,Notebook,Stationery,-1,800,50,Net Banking,Neha
+ORD1056,2026-02-16,  Rahul  ,MUMBAI,Pen,stationary,5,₹25000,15,cash,Priya
+ORD1057,12-Jul-2026,Rohan,MUMBAI,Chair,Furniture,5,500.00,0,CARD,Sneha
+ORD1058,2026-07-19,Sanjay,Mumbai,Mouse,Electronics,1,Rs.1200,0,Card,Priya
+ORD1059,25/05/2026,Meera,PUNE,Mouse,Electronics,-1,₹2500,10,Cash,Amit
+ORD1060,01-07-2026,Pooja,pune,Printer,Electronic,,25000.00,10%,COD,Sneha
+ORD1008,17/05/2026,Pooja,,Keyboard,electronics,3,45000.00,20,cash,Amit
+ORD1022,2026-07-24,  Rahul  ,PUNE,Desk,furniture,4,Rs.1200,120,Net Banking,Neha
+ORD1099,31/02/2026,Test User,Pune,Mouse,Electronics,2,Rs.500,10,UPI,Amit
+ORD1100,2026-08-15,,mumbai,Laptop,Electronic,-3,₹45000,150,cash,Priya
+ORD1101,15-08-2026,Nisha,PUNE,Desk,furniture,two,5000.00,,CARD,Sneha
